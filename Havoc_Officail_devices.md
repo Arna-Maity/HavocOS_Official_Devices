@@ -2,14 +2,14 @@
 |:----------------------------------------:|------------------|------------------------------------|-----------------------------------|
 | Asus ROG Phone II                        | I001D            | https://t.me/havoc_I001D           | https://t.me/ComicoX              |
 | Asus Zenfone 6 (2019)                    | I01WD            | https://t.me/havoc_I01WD           | https://t.me/ComicoX              |
-| Asus Zenfone Max Pro M1                  | X00T             | https://t.me/havoc_X00T            | https://t.me/travarilo            |
+| Asus Zenfone Max Pro M1                  | X00T             | https://t.me/havocX00T             | https://t.me/travarilo            |
 | Asus Zenfone Max Pro M2                  | X01BD            | https://t.me/havoc_x01bd           | https://t.me/SonalSingh18         |
 | Google Pixel 3 XL                        | crosshatch       | https://t.me/havoc_crosshatch      | https://t.me/steveproski          |
 | Zuk Z2 Plus                              | plus             | https://t.me/havoc_z2_plus         | https://t.me/nikhilgohil3         |
 | LG G6                                    | lucye            | https://t.me/havoclucye            | https://t.me/wolfsvk              |
 | Moto G5 Plus                             | potter           | https://t.me/havoc_potter          | https://t.me/abhijit1998          |
 | Moto G5S Plus                            | sanders          | https://t.me/havoc_sanders         | https://t.me/Ronax                |
-| Moto G7 Power                            | ocean            |                                    | https://t.me/Dark998              |
+| Moto G7 Power                            | ocean            | https://t.me/havoc_ocean           | https://t.me/Dark998              |
 | Moto G7                                  | River            | https://t.me/havoc_River           | https://t.me/SyberHexen           |
 | Moto X4                                  | payton           | https://t.me/havoc_payton          | https://t.me/SyberHexen           |
 | OnePlus 3/T                              | oneplus3         | https://t.me/havoc_oneplus3        | https://t.me/SKULSHADY            |
@@ -28,7 +28,7 @@
 | Xiaomi Redmi K20 Pro                     | raphael          | https://t.me/havoc_raphael         | https://t.me/nuub1k               |
 | Xiaomi Mi 8 Lite                         | platina          | https://t.me/havoc_platina         | https://t.me/riquebarros17        |
 | Xiaomi Mi 8 SE                           | sirius           | https://t.me/havoc_sirius          | https://t.me/dimasyudha           |
-| Xiaomi Mi 9T                             | davinci          |                                    | https://t.me/mountaser_halak      |
+| Xiaomi Mi 9T                             | davinci          | https://t.me/havoc_davinci         | https://t.me/mountaser_halak      |
 | Xiaomi Mi A1                             | tissot           | https://t.me/havoc_tissot          | https://t.me/mountaser_halak      |
 | Xiaomi Mi A2                             | jasmine_sprout   | https://t.me/havoc_jasmine_sprout  | https://t.me/SiddharthBharadwaj   |
 | Xiaomi Mi A3                             | laurel_sprout    | https://t.me/havoc_laurel_sprout   | https://t.me/prakaship78          |
