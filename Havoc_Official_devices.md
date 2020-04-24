@@ -23,6 +23,7 @@
 | OnePlus One                              | bacon            | https://t.me/havoc_bacon           | https://t.me/ClintT1              |
 | Xiaomi Poco X2 / Redmi K30               | phoenix          | https://t.me/havoc_phoenix         | https://t.me/blacksuan19          |
 | Realme XT                                | RMX1921          | https://t.me/havoc_RMX1921         | https://t.me/officialpro          |
+| Samsung Galaxy Note 3                    | hlte             | https://t.me/havoc_hlte            | https://t.me/Jprimero15           |
 | Samsung Galaxy S8                        | GSI              | https://t.me/havocgsi              | https://t.me/xEugW                |
 | Samsung S4 i9506 LTE-A                   | ks01ltexx        |                                    | https://t.me/MBA65music           |
 | Xiaomi Redmi K20 Pro                     | raphael          | https://t.me/havoc_raphael         | https://t.me/nuub1k               |
