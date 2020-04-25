@@ -27,6 +27,7 @@
 | Samsung S4 i9506 LTE-A                   | ks01ltexx        |                                    | https://t.me/MBA65music           |
 | Xiaomi Poco X2 / Redmi K30               | phoenix          | https://t.me/havoc_phoenix         | https://t.me/blacksuan19          |
 | Xiaomi Redmi K20 Pro                     | raphael          | https://t.me/havoc_raphael         | https://t.me/nuub1k               |
+| Xiaomi Mi 8                              | dipper           |                                    | https://t.me/ZeNiXxXx             |
 | Xiaomi Mi 8 Lite                         | platina          | https://t.me/havoc_platina         | https://t.me/riquebarros17        |
 | Xiaomi Mi 8 SE                           | sirius           | https://t.me/havoc_sirius          | https://t.me/dimasyudha           |
 | Xiaomi Mi 9T                             | davinci          | https://t.me/havoc_davinci         | https://t.me/mountaser_halak      |
