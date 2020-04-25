@@ -6,7 +6,7 @@
 | Asus Zenfone Max Pro M2                  | X01BD            | https://t.me/havoc_x01bd           | https://t.me/SonalSingh18         |
 | Google Pixel 3 XL                        | crosshatch       | https://t.me/havoc_crosshatch      | https://t.me/steveproski          |
 | Zuk Z2 Plus                              | z2_plus          | https://t.me/havoc_z2_plus         | https://t.me/nikhilgohil3         |
-| LG G6                                    | lucye            | https://t.me/havoclucye            | https://t.me/wolfsvk              |
+| LG G6                                    | lucye            | https://t.me/havoc_lucye           | https://t.me/wolfsvk              |
 | Moto G5 Plus                             | potter           | https://t.me/havoc_potter          | https://t.me/abhijit1998          |
 | Moto G5S Plus                            | sanders          | https://t.me/havoc_sanders         | https://t.me/Ronax                |
 | Moto G7 Power                            | ocean            | https://t.me/havoc_ocean           | https://t.me/Dark998              |
