@@ -21,11 +21,11 @@
 | OnePlus 7 PRO                            | oneplus7PRO      | https://t.me/havoc_oneplus7        | https://t.me/SKULSHADY            |
 | OnePlus 7T Pro                           | oneplus7T        | https://t.me/havoc_oneplus7        | https://t.me/SKULSHADY            |
 | OnePlus One                              | bacon            | https://t.me/havoc_bacon           | https://t.me/ClintT1              |
-| Xiaomi Poco X2 / Redmi K30               | phoenix          | https://t.me/havoc_phoenix         | https://t.me/blacksuan19          |
 | Realme XT                                | RMX1921          | https://t.me/havoc_RMX1921         | https://t.me/officialpro          |
 | Samsung Galaxy Note 3                    | hlte             | https://t.me/havoc_hlte            | https://t.me/Jprimero15           |
 | Samsung Galaxy S8                        | GSI              | https://t.me/havocgsi              | https://t.me/xEugW                |
 | Samsung S4 i9506 LTE-A                   | ks01ltexx        |                                    | https://t.me/MBA65music           |
+| Xiaomi Poco X2 / Redmi K30               | phoenix          | https://t.me/havoc_phoenix         | https://t.me/blacksuan19          |
 | Xiaomi Redmi K20 Pro                     | raphael          | https://t.me/havoc_raphael         | https://t.me/nuub1k               |
 | Xiaomi Mi 8 Lite                         | platina          | https://t.me/havoc_platina         | https://t.me/riquebarros17        |
 | Xiaomi Mi 8 SE                           | sirius           | https://t.me/havoc_sirius          | https://t.me/dimasyudha           |
